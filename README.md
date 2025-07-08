@@ -26,6 +26,9 @@ O **Bootcamp NTT DATA - Java e IA para Iniciantes** é um programa intensivo e c
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" title="GitHub Copilot" width="40"/>
 </p>
 
